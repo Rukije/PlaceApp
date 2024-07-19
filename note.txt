@@ -1,0 +1,9 @@
+REACT NAVIGATION->  npm install @react-navigation/native @react-navigation/native-stack
+
+ npx create-expo-app --template blank RnCourse               - basic react native project setup
+
+npm install -g create-expo-app
+
+cd project_name
+
+code .
